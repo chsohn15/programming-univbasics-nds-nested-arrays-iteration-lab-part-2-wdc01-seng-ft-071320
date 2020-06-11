@@ -15,4 +15,5 @@ while row_index < src.length do
   outer_results << minimum_element
   row_index += 1
 end
+outer_results
 end
